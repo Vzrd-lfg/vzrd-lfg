@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F0997B&center=true&width=600&lines=AI+Programme+Manager;Designing+AI+systems+%26+strategy;Open+to+full-time+%26+contract" alt="Typing animation: AI Programme Manager" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F0997B&center=true&width=600&lines=AI+Programme+Manager;Designing+AI+systems+%26+strategy;Open+to+full-time+%26+contract" alt="Typing animation: AI Technologist" />
 </p>
 
 <p align="center">
