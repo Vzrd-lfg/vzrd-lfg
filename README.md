@@ -21,11 +21,11 @@ from strategy and architecture to delivery and governance.
 
 </td><td valign="top" align="right">
 
-<a href="https://linkedin.com/in/vishnu.sathia"><img
+<a href="https://linkedin.com/in/vishnusathia"><img
   src="https://img.shields.io/badge/Connect_on_LinkedIn-%E2%86%92-D85A30?style=for-the-badge&labelColor=161b22"
   alt="Connect on LinkedIn" /></a>
 
-<a href="mailto:vishnu.sathiap"><img
+<a href="mailto:vishnu.sathiap@gmail.com"><img
   src="https://img.shields.io/badge/Email_me-161b22?style=for-the-badge&logo=gmail&logoColor=F0997B"
   alt="Email Vishnu" /></a>
 
