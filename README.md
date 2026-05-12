@@ -34,7 +34,7 @@ from strategy and architecture to delivery and governance.
 
 </td></tr></table>
 ---
-## ⚙️ What I do
+⚙️ What I do
 
 <table>
 <tr>
@@ -46,23 +46,23 @@ and model selection to deployment and governance.
 
 </td><td width="50%" valign="top">
 
-**📊 Roadmap & delivery**
+📊 Roadmap & delivery**
 Turn research and capability into quarterly roadmaps,
 OKRs, and shipped products teams are proud of.
 
 </td></tr><tr><td valign="top">
 
-**👥 Cross-functional leadership**
+👥 Cross-functional leadership**
 Bridge ML engineers, product managers, and C-suite —
 translating technical constraints into strategic decisions.
 
 </td><td valign="top">
 
-**🎯 Make or buy strategy**
+🎯 Make or buy strategy**
 Evaluate build vs. buy vs. fine-tune across LLM, CV,
 and data infrastructure — grounded in real cost and risk.
 
 </td></tr></table>
 ---
-## 🛠 Stack <!-- Option A: skill-icons (visual, no CDN needed) --> <p> <img src="https://skillicons.dev/icons?i=python,rust,go,pytorch,kubernetes,postgres,linux,git&theme=dark" /> </p> <!-- Option B: text badges (consistent with dark theme) --> <p> <img src="https://img.shields.io/badge/PyTorch-1f1f2d?style=flat-square&logo=pytorch&logoColor=AFA9EC" /> <img src="https://img.shields.io/badge/JAX-1f2a2d?style=flat-square&logo=google&logoColor=5DCAA5" /> <img src="https://img.shields.io/badge/vLLM-1f1f2d?style=flat-square&logo=speedtest&logoColor=AFA9EC" /> <img src="https://img.shields.io/badge/CUDA-1f2a2d?style=flat-square&logo=nvidia&logoColor=5DCAA5" /> <img src="https://img.shields.io/badge/Triton-2d1f1f?style=flat-square&logo=openai&logoColor=F0997B" /> <img src="https://img.shields.io/badge/Ray-1f2d1f?style=flat-square&logo=ray&logoColor=97C459" /> <img src="https://img.shields.io/badge/Kubernetes-1f2a2d?style=flat-square&logo=kubernetes&logoColor=5DCAA5" /> </p> <!-- Keep to ≤12 icons. Only include things you'd take an interview on. -->
+🛠 Stack <!-- Option A: skill-icons (visual, no CDN needed) --> <p> <img src="https://skillicons.dev/icons?i=python,rust,go,pytorch,kubernetes,postgres,linux,git&theme=dark" /> </p> <!-- Option B: text badges (consistent with dark theme) --> <p> <img src="https://img.shields.io/badge/PyTorch-1f1f2d?style=flat-square&logo=pytorch&logoColor=AFA9EC" /> <img src="https://img.shields.io/badge/JAX-1f2a2d?style=flat-square&logo=google&logoColor=5DCAA5" /> <img src="https://img.shields.io/badge/vLLM-1f1f2d?style=flat-square&logo=speedtest&logoColor=AFA9EC" /> <img src="https://img.shields.io/badge/CUDA-1f2a2d?style=flat-square&logo=nvidia&logoColor=5DCAA5" /> <img src="https://img.shields.io/badge/Triton-2d1f1f?style=flat-square&logo=openai&logoColor=F0997B" /> <img src="https://img.shields.io/badge/Ray-1f2d1f?style=flat-square&logo=ray&logoColor=97C459" /> <img src="https://img.shields.io/badge/Kubernetes-1f2a2d?style=flat-square&logo=kubernetes&logoColor=5DCAA5" /> </p> <!-- Keep to ≤12 icons. Only include things you'd take an interview on. -->
 
