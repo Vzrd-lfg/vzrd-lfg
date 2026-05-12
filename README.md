@@ -21,28 +21,18 @@
 > into real-world impact.
 >
 ---
-## 🟢 Availability
-
-<table><tr><td valign="top" width="70%">
-
-**Available now** — open to:
-
-- 🏢 Full-time AI Programme / Product / Strategy roles
-- 🤝 Contract & consulting engagements
-- 🌐 Remote-first, London-based, open globally
-
 I help organisations design and ship AI that works at scale —
 from strategy and architecture to delivery and governance.
 
 </td><td valign="top" align="right">
 
-<a href="https://linkedin.com/in/vishnu-sathiapathi"><img
+<a href="https://linkedin.com/in/vishnu.sathia"><img
   src="https://img.shields.io/badge/Connect_on_LinkedIn-%E2%86%92-D85A30?style=for-the-badge&labelColor=161b22"
   alt="Connect on LinkedIn" /></a>
 
 <br /><br />
 
-<a href="mailto:YOUR_EMAIL"><img
+<a href="mailto:vishnu.sathiap"><img
   src="https://img.shields.io/badge/Email_me-161b22?style=for-the-badge&logo=gmail&logoColor=F0997B"
   alt="Email Vishnu" /></a>
 
@@ -77,5 +67,4 @@ Evaluate build vs. buy vs. fine-tune across LLM, CV,
 and data infrastructure — grounded in real cost and risk.
 
 </td></tr></table>
----
 
