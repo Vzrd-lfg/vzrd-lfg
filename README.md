@@ -30,8 +30,6 @@ from strategy and architecture to delivery and governance.
   src="https://img.shields.io/badge/Connect_on_LinkedIn-%E2%86%92-D85A30?style=for-the-badge&labelColor=161b22"
   alt="Connect on LinkedIn" /></a>
 
-<br /><br />
-
 <a href="mailto:vishnu.sathiap"><img
   src="https://img.shields.io/badge/Email_me-161b22?style=for-the-badge&logo=gmail&logoColor=F0997B"
   alt="Email Vishnu" /></a>
