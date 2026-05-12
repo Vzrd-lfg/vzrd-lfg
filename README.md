@@ -40,7 +40,7 @@ from strategy and architecture to delivery and governance.
 <tr>
 <td width="50%" valign="top">
 
-**⚙️ AI systems design: 
+⚙️ AI systems design: 
 Architect end-to-end AI programmes — from data strategy
 and model selection to deployment and governance.
 
