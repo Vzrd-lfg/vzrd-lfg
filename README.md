@@ -19,17 +19,63 @@
 > I design AI systems and the strategies that make them ship — bridging
 > product, engineering, and executive decision-making to turn model capability
 > into real-world impact.
-<!--
-**Vzrd-lfg/vzrd-lfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>
+---
+## 🟢 Availability
 
-Here are some ideas to get you started:
+<table><tr><td valign="top" width="70%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Available now** — open to:
+
+- 🏢 Full-time AI Programme / Product / Strategy roles
+- 🤝 Contract & consulting engagements
+- 🌐 Remote-first, London-based, open globally
+
+I help organisations design and ship AI that works at scale —
+from strategy and architecture to delivery and governance.
+
+</td><td valign="top" align="right">
+
+<a href="https://linkedin.com/in/vishnu-sathiapathi"><img
+  src="https://img.shields.io/badge/Connect_on_LinkedIn-%E2%86%92-D85A30?style=for-the-badge&labelColor=161b22"
+  alt="Connect on LinkedIn" /></a>
+
+<br /><br />
+
+<a href="mailto:YOUR_EMAIL"><img
+  src="https://img.shields.io/badge/Email_me-161b22?style=for-the-badge&logo=gmail&logoColor=F0997B"
+  alt="Email Vishnu" /></a>
+
+</td></tr></table>
+---
+## ⚙️ What I do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ AI systems design**
+Architect end-to-end AI programmes — from data strategy
+and model selection to deployment and governance.
+
+</td><td width="50%" valign="top">
+
+**📊 Roadmap & delivery**
+Turn research and capability into quarterly roadmaps,
+OKRs, and shipped products teams are proud of.
+
+</td></tr><tr><td valign="top">
+
+**👥 Cross-functional leadership**
+Bridge ML engineers, product managers, and C-suite —
+translating technical constraints into strategic decisions.
+
+</td><td valign="top">
+
+**🎯 Make or buy strategy**
+Evaluate build vs. buy vs. fine-tune across LLM, CV,
+and data infrastructure — grounded in real cost and risk.
+
+</td></tr></table>
+---
+
