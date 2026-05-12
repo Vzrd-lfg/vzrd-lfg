@@ -1,16 +1,15 @@
 ## Hello there 👋
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F0997B&center=true&width=600&lines=AI+Programme+Manager;Designing+AI+systems+%26+strategy;Open+to+full-time+%26+contract" alt="Typing animation: AI Programme Manager" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F0997B¢er=true&width=600&lines=AI+Technologist;Designing+AI+systems+%26+strategy;"
-  alt="Typing animation: AI Technologist" />
-
-<br />
-
-<img src="https://img.shields.io/badge/AI_Technologist-1f1f2d?style=for-the-badge&labelColor=161b22&color=534AB7" alt="role" />
-<img src="https://img.shields.io/badge/London%2C_UK-21262d?style=for-the-badge&logo=googlemaps&logoColor=8b949e&labelColor=161b22" alt="London UK" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-D85A30?style=for-the-badge&labelColor=161b22&color=D85A30" alt="open to work" />
+  <img src="https://img.shields.io/badge/AI_Programme_Manager-1f1f2d?style=for-the-badge&labelColor=161b22&color=534AB7" alt="AI Programme Manager" />
+  <img src="https://img.shields.io/badge/London%2C_UK-21262d?style=for-the-badge&logo=googlemaps&logoColor=8b949e&labelColor=161b22" alt="London UK" />
+  <img src="https://img.shields.io/badge/Full--time_%26_Contract-1a1f1a?style=for-the-badge&labelColor=161b22&color=3B6D11" alt="Full-time and contract" />
+</p>
 
 ---
 
